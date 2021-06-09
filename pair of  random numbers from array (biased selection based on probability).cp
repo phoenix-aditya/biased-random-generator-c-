@@ -18,7 +18,7 @@ void generateselective(int arr[], double bias[], int n)
 {
     
 //    function need to run 1 time to generate the array containing instances of sample array
-//    based on a bias (bias is probability of element to be selected
+//    based on a bias (bias is probability of element to be selected in the array
 //    this will thus create a biased array from which when we select 2 random elements will
 //    give us biased instances of sample array
     
